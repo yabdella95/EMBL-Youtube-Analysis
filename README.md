@@ -4,6 +4,9 @@ This is a personal project provides analysis of the EMBL YouTube channel. The an
 
 ## Project Structure
 EMBL-Youtube-Analysis/
+
+
+
 ├── EMBL_Youtube_Channel_Analysis.ipynb   # Jupyter Notebook with code and analysis
 ├── README.md                             # Project documentation
 ├── requirements.txt                      # Required Python libraries
