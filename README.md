@@ -2,17 +2,6 @@
 
 This is a personal project provides analysis of the EMBL YouTube channel. The analysis based on the data from the YouTube API and visualizes insights.
 
-## Project Structure
-EMBL-Youtube-Analysis/
-
-
-
-├── EMBL_Youtube_Channel_Analysis.ipynb   # Jupyter Notebook with code and analysis
-├── README.md                             # Project documentation
-├── requirements.txt                      # Required Python libraries
-└── images/                               # Images and visuals, including logo
-└── embl_logo.jpg                         # EMBL logo used in dashboard
-
 ## Key Features
 - **Best Performing Videos**: A breakdown of the top videos by view count.
 - **Monthly Likes Trend**: Visualization of engagement over time.
