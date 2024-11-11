@@ -10,7 +10,7 @@ This is a personal project provides analysis of the EMBL YouTube channel. The an
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yabdella95/EMBL-Youtube-Analysis.git
+   git clone https://github.com/yusufwa7ied/EMBL-Youtube-Analysis
 
 2.	Install required libraries:
     pip install -r requirements.txt
